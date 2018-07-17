@@ -1,0 +1,2 @@
+# SinAutotest
+For Automation test
